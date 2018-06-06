@@ -1,0 +1,6 @@
+c:\users\Tavano\documents\visual studio 2010\Projects\ShopperTrakFTP\ShopperTrakFTP\bin\Debug\ShopperTrakFTP.exe
+c:\users\Tavano\documents\visual studio 2010\Projects\ShopperTrakFTP\ShopperTrakFTP\bin\Debug\ShopperTrakFTP.pdb
+c:\users\Tavano\documents\visual studio 2010\Projects\ShopperTrakFTP\ShopperTrakFTP\obj\x86\Debug\ShopperTrakFTP.exe
+c:\users\Tavano\documents\visual studio 2010\Projects\ShopperTrakFTP\ShopperTrakFTP\obj\x86\Debug\ShopperTrakFTP.pdb
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\ShopperTrakFTP\ShopperTrakFTP\obj\x86\Debug\ShopperTrakFTP.csprojResolveAssemblyReference.cache
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\ShopperTrakFTP\ShopperTrakFTP\bin\Debug\Renci.SshNet.dll
